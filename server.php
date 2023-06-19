@@ -1,5 +1,4 @@
 <?php
-// test commit message. remove this later
 /**
  * Laravel - A PHP Framework For Web Artisans.
  *
